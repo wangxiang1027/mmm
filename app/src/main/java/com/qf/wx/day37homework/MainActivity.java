@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
         x.view().inject(this);
     }
+//kkkkkkkkkkkkkkkkkkkkkkkkk
 
     @Event(R.id.btn)
     private void btnPic(View view){
